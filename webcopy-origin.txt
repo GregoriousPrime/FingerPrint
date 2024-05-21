@@ -1,0 +1,1052 @@
+Uri: https://fing3r-print.myshopify.com/
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\index.htm
+Content Type: text/html
+
+Uri: https://fing3r-print.myshopify.com/cart
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cart.html
+Content Type: text/html
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-21.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647 1600w
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-6.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=1066
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-5.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=1100
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-15.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=1206
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-16.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=1346
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-17.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=1426
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-18.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=1445
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-8.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=1646
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-19.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=165
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-1.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=1946
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-7.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=246
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-9.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=360
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-2.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=493
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-10.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=533
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=550
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-20.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=600
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-11.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=713
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-12.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=720
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-3.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=823
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-13.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=940
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-4.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647&width=990
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17-14.webp
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-16.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719 327w
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-2.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=1100
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-11.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=1206
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-12.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=1346
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-13.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=1426
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-14.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=1445
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-4.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=1646
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-15.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=165
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-1.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=1946
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-3.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=246
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-5.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=493
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-6.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=533
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=600
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-7.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=713
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-8.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=823
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-9.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Screenshot_20221121_180315.png?v=1716312719&width=990
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Screenshot_20221121_180315-10.png
+Content Type: image/png
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-16.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742 244w
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-2.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=1100
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-11.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=1206
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-12.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=1346
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-13.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=1426
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-14.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=1445
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-4.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=1646
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-15.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=165
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=1946
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-3.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=246
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-5.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=493
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-6.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=533
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=600
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-7.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=713
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-8.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=823
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-9.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled.jpg?v=1716045742&width=990
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled-10.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-21.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344 1201w
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-6.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=1066
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-5.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=1100
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-15.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=1206
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-16.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=1346
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-17.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=1426
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-18.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=1445
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-8.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=1646
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-19.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=165
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=1946
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-7.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=246
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-9.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=360
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-2.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=493
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-10.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=533
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=550
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-20.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=600
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-11.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=713
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-12.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=720
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-3.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=823
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-13.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=940
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-4.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344&width=990
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39-14.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-21.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399 1201w
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-6.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=1066
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-5.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=1100
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-15.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=1206
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-16.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=1346
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-17.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=1426
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-18.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=1445
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-8.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=1646
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-19.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=165
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=1946
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-7.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=246
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-9.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=360
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-2.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=493
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-10.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=533
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=550
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-20.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=600
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-11.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=713
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-12.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=720
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-3.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=823
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-13.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=940
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-4.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399&width=990
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.06.19-14.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-21.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852 1201w
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-6.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=1066
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-5.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=1100
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-15.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=1206
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-16.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=1346
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-17.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=1426
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-18.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=1445
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-8.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=1646
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-19.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=165
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=1946
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-7.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=246
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-9.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=360
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-2.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=493
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-10.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=533
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=550
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-20.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=600
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-11.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=713
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-12.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=720
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-3.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=823
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-13.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=940
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-4.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852&width=990
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at19.30.18-14.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-21.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054 1201w
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-6.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=1066
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-5.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=1100
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-15.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=1206
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-16.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=1346
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-17.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=1426
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-18.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=1445
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-8.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=1646
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-19.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=165
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=1946
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-7.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=246
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-9.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=360
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-2.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=493
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-10.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=533
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=550
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-20.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=600
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-11.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=713
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-12.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=720
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-3.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=823
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-13.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=940
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-4.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054&width=990
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38-14.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-21.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905 1201w
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=1066
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=1100
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-15.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=1206
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-16.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=1346
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-17.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=1426
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-18.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=1445
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=1646
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-19.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=165
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=1946
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=246
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-9.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=360
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=493
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-10.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=533
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=550
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-20.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=600
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-11.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=713
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-12.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=720
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=823
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-13.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=940
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905&width=990
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_1-14.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-20.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752 1051w
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=1100
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-14.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=1206
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-15.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=1346
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-16.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=1426
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-17.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=1445
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=1646
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-18.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=165
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=1946
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=246
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-8.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=360
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=493
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-9.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=533
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=550
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-19.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=600
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-10.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=713
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-11.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=720
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=823
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-12.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=940
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752&width=990
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\files\WhatsAppImage2024-05-18at20.51.38_2-13.jpg
+Content Type: image/jpeg
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/animations.js?v=88693664871331136111716050522
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\animations.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/base.css?v=41410701886077209591716050522
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\base.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/cart-notification.js?v=133508293167896966491716050522
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\cart-notification.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/cart.js?v=114940022928632645881716050522
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\cart.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-accordion.css?v=180964204318874863811716050522
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-accordion.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-card.css?v=120341546515895839841716050522
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-card.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-cart-items.css?v=127384614032664249911716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-cart-items.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-cart-notification.css?v=54116361853792938221716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-cart-notification.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-cart.css?v=165982380921400067651716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-cart.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-collection-hero.css?v=125511329265726850081716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-collection-hero.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-deferred-media.css?v=14096082462203297471716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-deferred-media.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-discounts.css?v=152760482443307489271716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-discounts.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-facets.css?v=150625133492632618911716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-facets.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-list-menu.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-list-payment.css?v=69253961410771838501716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-list-payment.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-list-social.css?v=35792976012981934991716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-list-social.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-loading-spinner.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-menu-drawer.css?v=110695408305392539491716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-menu-drawer.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-newsletter.css?v=4727253280200485261716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-newsletter.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-pickup-availability.css?v=34645222959864780961716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-pickup-availability.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-predictive-search.css?v=118923337488134913561716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-predictive-search.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-price.css?v=70172745017360139101716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-price.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-rating.css?v=179577762467860590411716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-rating.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-search.css?v=165164710990765432851716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-search.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-slider.css?v=14039311878856620671716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-slider.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-totals.css?v=15906652033866631521716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-totals.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/component-volume-pricing.css?v=56284703641257077881716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\component-volume-pricing.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/constants.js?v=58251544750838685771716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\constants.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/details-disclosure.js?v=13653116266235556501716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\details-disclosure.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/details-modal.js?v=25581673532751508451716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\details-modal.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/facets.js?v=42798985796066624181716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\facets.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/global.js?v=136628361274817707361716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\global.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/media-gallery.js?v=143213719433830640921716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\media-gallery.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/pickup-availability.js?v=66138958121968076331716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\pickup-availability.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/predictive-search.js?v=162273246065392412141716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\predictive-search.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/product-form.js?v=133081758708377679181716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\product-form.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/product-info.js?v=182726685732064835421716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\product-info.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/product-modal.js?v=116616134454508949461716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\product-modal.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/pubsub.js?v=158357773527763999511716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\pubsub.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/quantity-popover.css?v=78745769908715669131716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\quantity-popover.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/quantity-popover.js?v=987015268078116491716050523
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\quantity-popover.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/quick-order-list.css?v=158670895663024962971716050524
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\quick-order-list.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/search-form.js?v=133129549252120666541716050524
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\search-form.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/section-footer.css?v=61390616271034004541716050524
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\section-footer.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/section-main-product.css?v=168648135018905080671716050524
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\section-main-product.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/section-related-products.css?v=80324771040738084201716050524
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\section-related-products.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/share.js?v=13024540447964430191716050524
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\share.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/sparkle.gif
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\sparkle.gif
+Content Type: image/gif
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/assets/template-collection.css?v=58558206033505836701716050524
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\assets\template-collection.css
+Content Type: text/css
+
+Uri: https://fing3r-print.myshopify.com/cdn/shop/t/2/compiled_assets/scripts.js?8
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shop\t\2\compiled_assets\scripts.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shopifycloud\shopify\assets\storefront\features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\cdn\shopifycloud\shopify\assets\storefront\load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+Content Type: text/javascript
+
+Uri: https://fing3r-print.myshopify.com/checkouts/internal/preloads.js?locale=en-IL
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\checkouts\internal\preloads.js
+Content Type: application/javascript
+
+Uri: https://fing3r-print.myshopify.com/collections/all
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\collections\all.html
+Content Type: text/html
+
+Uri: https://fing3r-print.myshopify.com/collections/all.atom
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\collections\all.atom
+Content Type: application/atom+xml
+
+Uri: https://fing3r-print.myshopify.com/products/אסטרונאוט
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\אסטרונאוט.html
+Content Type: text/html
+
+Uri: https://fing3r-print.myshopify.com/products/אסטרונאוט.oembed
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\אסטרונאוט.oembed
+Content Type: application/json+oembed
+
+Uri: https://fing3r-print.myshopify.com/products/דארת-ויידר-בודהה
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\דארת-ויידר-בודהה.html
+Content Type: text/html
+
+Uri: https://fing3r-print.myshopify.com/products/דארת-ויידר-בודהה.oembed
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\דארת-ויידר-בודהה.oembed
+Content Type: application/json+oembed
+
+Uri: https://fing3r-print.myshopify.com/products/הזמנה-אישית
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\הזמנה-אישית.html
+Content Type: text/html
+
+Uri: https://fing3r-print.myshopify.com/products/הזמנה-אישית.oembed
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\הזמנה-אישית.oembed
+Content Type: application/json+oembed
+
+Uri: https://fing3r-print.myshopify.com/products/כבשה
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\כבשה.html
+Content Type: text/html
+
+Uri: https://fing3r-print.myshopify.com/products/כבשה.oembed
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\כבשה.oembed
+Content Type: application/json+oembed
+
+Uri: https://fing3r-print.myshopify.com/products/ספינה
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\ספינה.html
+Content Type: text/html
+
+Uri: https://fing3r-print.myshopify.com/products/ספינה.oembed
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\ספינה.oembed
+Content Type: application/json+oembed
+
+Uri: https://fing3r-print.myshopify.com/products/פיקאצו
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\פיקאצו.html
+Content Type: text/html
+
+Uri: https://fing3r-print.myshopify.com/products/פיקאצו-1
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\פיקאצו-1.html
+Content Type: text/html
+
+Uri: https://fing3r-print.myshopify.com/products/פיקאצו-1.oembed
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\פיקאצו-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://fing3r-print.myshopify.com/products/פיקאצו.oembed
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\פיקאצו.oembed
+Content Type: application/json+oembed
+
+Uri: https://fing3r-print.myshopify.com/products/תמנון
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\תמנון.html
+Content Type: text/html
+
+Uri: https://fing3r-print.myshopify.com/products/תמנון.oembed
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\תמנון.oembed
+Content Type: application/json+oembed
+
+Uri: https://fing3r-print.myshopify.com/products/astronaut
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\astronaut.html
+Content Type: text/html
+
+Uri: https://fing3r-print.myshopify.com/products/astronaut.oembed
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\products\astronaut.oembed
+Content Type: application/json+oembed
+
+Uri: https://shop.app/checkouts/internal/preloads.js?locale=en-IL&shop_id=69989335298
+File Name: C:\Downloaded Web Sites\fing3r-print.myshopify.com\checkouts\internal\preloads-1.js
+Content Type: application/javascript
+
