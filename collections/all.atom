@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fing3r-print.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fing3r-print.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fing3r-print.myshopify.com/collections/all.atom"/>
+  <title>FingerPrint</title>
+  <updated>2024-05-21T20:30:43+03:00</updated>
+  <author>
+    <name>FingerPrint</name>
+  </author>
+  <entry>
+    <id>https://fing3r-print.myshopify.com/products/8644766531842</id>
+    <published>2024-05-21T20:30:43+03:00</published>
+    <updated>2024-05-21T20:30:43+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://fing3r-print.myshopify.com/products/%D7%94%D7%96%D7%9E%D7%A0%D7%94-%D7%90%D7%99%D7%A9%D7%99%D7%AA"/>
+    <title>הזמנה אישית</title>
+    <s:type></s:type>
+    <s:vendor>FingerPrint</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8933/5298/files/Screenshot_20221121_180315.png?v=1716312719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FingerPrint<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>הזמנה אישית<br></p>
+<p>אנא כתבו לנו בהזמנה את הדגם אותו תרצו להזמין על מנת לקבל הצעת מחיר</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fing3r-print.myshopify.com/products/8644766531842</id>
+      <title>Default Title</title>
+      <s:price currency="ILS">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fing3r-print.myshopify.com/products/8630326132994</id>
+    <published>2024-05-18T20:58:00+03:00</published>
+    <updated>2024-05-18T20:58:00+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://fing3r-print.myshopify.com/products/%D7%A4%D7%99%D7%A7%D7%90%D7%A6%D7%95-1"/>
+    <title>פיקאצ&apos;ו</title>
+    <s:type></s:type>
+    <s:vendor>FingerPrint</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8933/5298/files/WhatsAppImage2024-05-18at20.51.38.jpg?v=1716055054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FingerPrint<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>פיקה פיקה<br></p>
+<p><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fing3r-print.myshopify.com/products/8630326132994</id>
+      <title>Default Title</title>
+      <s:price currency="ILS">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fing3r-print.myshopify.com/products/8630323904770</id>
+    <published>2024-05-18T20:57:04+03:00</published>
+    <updated>2024-05-18T20:57:04+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://fing3r-print.myshopify.com/products/%D7%93%D7%90%D7%A8%D7%AA-%D7%95%D7%99%D7%99%D7%93%D7%A8-%D7%91%D7%95%D7%93%D7%94%D7%94"/>
+    <title>דארת&apos; ויידר בודהה</title>
+    <s:type></s:type>
+    <s:vendor>FingerPrint</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8933/5298/files/WhatsAppImage2024-05-18at20.51.38_1.jpg?v=1716054905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FingerPrint<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ניתן להתפלל אליו!<br></p>
+<p><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fing3r-print.myshopify.com/products/8630323904770</id>
+      <title>Default Title</title>
+      <s:price currency="ILS">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fing3r-print.myshopify.com/products/8630317646082</id>
+    <published>2024-05-18T20:54:25+03:00</published>
+    <updated>2024-05-18T20:54:25+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://fing3r-print.myshopify.com/products/%D7%A1%D7%A4%D7%99%D7%A0%D7%94"/>
+    <title>ספינה</title>
+    <s:type></s:type>
+    <s:vendor>FingerPrint</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8933/5298/files/WhatsAppImage2024-05-18at20.51.38_2.jpg?v=1716054752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FingerPrint<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ספינה המאפשרת סיפון בים<br></p>
+<p><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fing3r-print.myshopify.com/products/8630317646082</id>
+      <title>Default Title</title>
+      <s:price currency="ILS">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fing3r-print.myshopify.com/products/8630184739074</id>
+    <published>2024-05-18T19:32:19+03:00</published>
+    <updated>2024-05-18T19:32:19+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://fing3r-print.myshopify.com/products/%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%A0%D7%90%D7%95%D7%98"/>
+    <title>אסטרונאוט</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8933/5298/files/WhatsAppImage2024-05-18at19.30.18.jpg?v=1716049852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>אסטרונאוט על ירח<br></p>
+<p><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fing3r-print.myshopify.com/products/8630184739074</id>
+      <title>Default Title</title>
+      <s:price currency="ILS">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fing3r-print.myshopify.com/products/8630177399042</id>
+    <published>2024-05-18T19:28:09+03:00</published>
+    <updated>2024-05-18T19:28:09+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://fing3r-print.myshopify.com/products/%D7%AA%D7%9E%D7%A0%D7%95%D7%9F"/>
+    <title>תמנון</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8933/5298/files/7e7fe39c69e6ab74ec0fe0387b2cc5ac_display_large_17.webp?v=1716049647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>תמנון מתפתל בעת פיתולים<br></p>
+<p><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fing3r-print.myshopify.com/products/8630177399042</id>
+      <title>Default Title</title>
+      <s:price currency="ILS">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fing3r-print.myshopify.com/products/8630172090626</id>
+    <published>2024-05-18T19:24:45+03:00</published>
+    <updated>2024-05-18T19:24:45+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://fing3r-print.myshopify.com/products/%D7%9B%D7%91%D7%A9%D7%94"/>
+    <title>כבשה</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8933/5298/files/Untitled_756b2c10-60e8-4992-a1e2-2329dcea7a39.jpg?v=1716049344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>כבשה<br></p>
+<p><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fing3r-print.myshopify.com/products/8630172090626</id>
+      <title>Default Title</title>
+      <s:price currency="ILS">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fing3r-print.myshopify.com/products/8630158557442</id>
+    <published>2024-05-18T19:16:40+03:00</published>
+    <updated>2024-05-18T19:16:40+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://fing3r-print.myshopify.com/products/astronaut"/>
+    <title>Astronaut</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8933/5298/files/WhatsAppImage2024-05-18at19.06.19.jpg?v=1716048399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Astronaut in the ocean<br></p>
+<p> </p>
+<p><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fing3r-print.myshopify.com/products/8630158557442</id>
+      <title>Default Title</title>
+      <s:price currency="ILS">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fing3r-print.myshopify.com/products/8630134309122</id>
+    <published>2024-05-18T19:00:44+03:00</published>
+    <updated>2024-05-18T19:00:44+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://fing3r-print.myshopify.com/products/%D7%A4%D7%99%D7%A7%D7%90%D7%A6%D7%95"/>
+    <title>פיקאצ&apos;ו</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8933/5298/files/Untitled.jpg?v=1716045742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>פוקימון שרירי ואיכותי<br></p>
+<p><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fing3r-print.myshopify.com/products/8630134309122</id>
+      <title>Default Title</title>
+      <s:price currency="ILS">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>69</s:grams>
+    </s:variant>
+  </entry>
+</feed>
